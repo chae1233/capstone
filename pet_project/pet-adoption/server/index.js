@@ -14,7 +14,7 @@ const PORT = 3001;
  * * 2. MySQL DB 커넥션 풀 생성
  * * ==================================================== */
 const pool = mysql.createPool({
-    host: '192.168.14.108',
+    host: '192.168.5.110',
     user: 'root',
     password: 'kiwu!@', // 🚨 실제 DB 비밀번호로 변경하세요!
     database: 'pet_project_db',

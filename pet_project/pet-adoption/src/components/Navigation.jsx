@@ -331,7 +331,7 @@ export default function Navigation({ currentUser, handleLogout }) {
                         <div className="logo-group">
                             <Link to="/" className="logo-link">
                                 <PawPrint className="w-8 h-8" />
-                                <span className="logo-text">행복한 동행</span>
+                                <span className="logo-text">푸딩의 발자국</span>
                             </Link>
                             
                             {/* 데스크탑 메인 메뉴 */}
